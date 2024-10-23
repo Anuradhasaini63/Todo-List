@@ -1,0 +1,45 @@
+body {
+   background: #ddd;
+   padding: 20px;
+}
+
+.wrapper {
+   width: 500px;
+   margin: 0 auto;
+   background: darkblue;
+   padding: 20px;
+   border-radius: 5px;
+}
+
+.input_wrapper button {
+   background: #fff;
+   border: none;
+   padding: 10px;
+   border-radius: 5px;
+}
+
+.input_wrapper {
+   margin-bottom: 20px;
+}
+
+.input_wrapper input#task {
+   padding: 8px;
+   width: 80%;
+}
+
+.dropzone {
+   background-color: #ddd;
+   margin-top: 20px;
+   padding: 10px;
+}
+
+.drag_item {
+   color: #fff;
+   background-color: #4381ad;
+   padding: 10px;
+   margin: 5px 0;
+   cursor: move;
+}
+.drag_item p{
+   margin: 0;
+}
